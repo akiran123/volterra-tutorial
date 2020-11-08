@@ -44,7 +44,8 @@ Applications -> Virtual k8sより`Add Virtual K8s`を選択します。Nameを�
 
 下のようにDeploymentを設定すると、該当するSiteにコンテナが立ち上がります。
 
-```apiVersion: apps/v1
+```
+apiVersion: apps/v1
 kind: Deployment
 metadata:
   name: nginx-deployment
@@ -72,7 +73,8 @@ spec:
 `Add service`を選択するとYaml(json)を入力する画面が開きます。
 下のようにServiceを設定すると、該当するSiteにServiceが設定されます。
 
-```apiVersion: v1
+```
+apiVersion: v1
 kind: Service
 metadata:
   name: nginx
