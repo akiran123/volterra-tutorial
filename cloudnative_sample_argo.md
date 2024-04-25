@@ -2,12 +2,23 @@
 この章では、Kubernetes上でGitOpsを可能とするCDツールであるArgo CDについて紹介し、導入します。
 
 
-<p>This is a pragraph</p>
-<strong>This is a bolded element</strong>
+# {.tab-content}
 
-<p>This is a pragraph</p>
-<!--This is a comment-->
-<strong>This is a bolded element</strong>
+<ul class="nav nav-tabs">
+  <li class="active">
+  <a href="#tab1" data-toggle="tab">tab1</a>
+  </li>
+  <li role="presentation">
+  <a href="#tab2" data-toggle="tab">tab2</a>
+  </li>
+</ul>
+
+## tab1 {#tab1 .tab-pane .active}
+hogehoge. hogehoge.
+
+
+## tab2 {#tab2 .tab-pane}
+wasshoi! wasshoi!
 
 
 ## GitOpsとCI/CDについて
