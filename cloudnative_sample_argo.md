@@ -1,6 +1,15 @@
 # Argo CD
 この章では、Kubernetes上でGitOpsを可能とするCDツールであるArgo CDについて紹介し、導入します。
 
+
+<p>This is a pragraph</p>
+<strong>This is a bolded element</strong>
+
+<p>This is a pragraph</p>
+<!--This is a comment-->
+<strong>This is a bolded element</strong>
+
+
 ## GitOpsとCI/CDについて
 CI/CDは、継続的インテグレーション（CI）と継続的デリバリー/デプロイメント（CD）を実現するための手法です。
 CIは、アプリケーションのビルド、テスト、およびコードの統合を自動化するプロセス
