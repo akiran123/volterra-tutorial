@@ -1,8 +1,10 @@
 # Argo CD
 この章では、Kubernetes上でGitOpsを可能とするCDツールであるArgo CDについて紹介し、導入します。
 
-````a
-````
+```ruby:qiita.rb
+puts 'The best way to log and share programmers knowledge.'
+```
+
 
 <!-- tabs:start -->
 
