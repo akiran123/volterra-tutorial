@@ -1,19 +1,15 @@
-## 計算結果比較 {.tabset}
+<!-- tabs:start -->
 
-### 条件1
+#### **English**
 
- ```{r }
-plot(out1)
-```
- 
-### 条件2
- 
- ```{r }
-plot(out2)
-```
+Hello!
 
-### 条件3
- 
- ```{r }
-plot(out3)
-```
+#### **French**
+
+Bonjour!
+
+#### **Italian**
+
+Ciao!
+
+<!-- tabs:end -->
