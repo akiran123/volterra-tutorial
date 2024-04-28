@@ -1,15 +1,7 @@
 <!-- tabs:start -->
 
-#### **English**
+#### **Bold**
 
-Hello!
-
-#### **French**
-
-Bonjour!
-
-#### **Italian**
-
-Ciao!
+...
 
 <!-- tabs:end -->
