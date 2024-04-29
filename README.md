@@ -7,27 +7,6 @@
 # Argo CD
 この章では、Kubernetes上でGitOpsを可能とするCDツールであるArgo CDについて紹介し、導入します。
 
-```ruby:qiita.rb
-puts 'The best way to log and share programmers knowledge.'
-```
-
-
-<!-- tabs:start -->
-
-#### **React**
-
-Facebook's frontend framework for building reactive, component-based user interfaces.
-
-#### **Angular**
-
-Google's frontend framework for building speedy and performant user interfaces with extensive built-in tooling.
-
-#### **Vue**
-
-Evan You's approachable and versatile frontend framework for building user interfaces.
-
-<!-- tabs:end -->
-
 
 ## GitOpsとCI/CDについて
 CI/CDは、継続的インテグレーション（CI）と継続的デリバリー/デプロイメント（CD）を実現するための手法です。
