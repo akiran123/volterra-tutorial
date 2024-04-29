@@ -1,14 +1,14 @@
 <!-- tabs:start -->
 
-<!-- tab:English -->
+#### **English**
 
 Hello!
 
-<!-- tab:French -->
+#### **French**
 
 Bonjour!
 
-<!-- tab:Italian -->
+#### **Italian**
 
 Ciao!
 
