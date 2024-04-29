@@ -1,15 +1,8 @@
 <!-- tabs:start -->
 
-<!-- tab:English -->
+#### **My Tab**
 
-English
-
-<!-- tab:French -->
-
-Bonjour!
-
-<!-- tab:Italian -->
-
-Ciao!
+...
 
 <!-- tabs:end -->
+
