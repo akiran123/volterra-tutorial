@@ -1,16 +1,16 @@
-<details>
-<summary>これは中身が整形されない</summary>
-1. 野菜**A**の皮を剥く。
-2. 乱切りにする。
-3. 調味料**B**と合わせて炒める。
-    - `火傷`に注意。
-</details>
+<!-- tabs:start -->
 
-<details>
-<summary>これは中身が整形される</summary>
+<!-- tab:English -->
 
-1. 野菜**A**の皮を剥く。
-2. 乱切りにする。
-3. 調味料**B**と合わせて炒める。
-    - `火傷`に注意。
-</details>
+Hello!
+
+<!-- tab:French -->
+
+Bonjour!
+
+<!-- tab:Italian -->
+
+Ciao!
+
+<!-- tabs:end -->
+
