@@ -1,19 +1,16 @@
-<div class="tab-wrap">
- <input id="TAB-01" type="radio" name="TAB" class="tab-switch" checked="checked" />
- <label class="tab-label" for="TAB-01">タブ①</label>
-    <div class="tab-content">
-      コンテンツ①をここに入れる
-    <!--/tab-content--></div>
+<details>
+<summary>これは中身が整形されない</summary>
+1. 野菜**A**の皮を剥く。
+2. 乱切りにする。
+3. 調味料**B**と合わせて炒める。
+    - `火傷`に注意。
+</details>
 
- <input id="TAB-02" type="radio" name="TAB" class="tab-switch" />
- <label class="tab-label" for="TAB-02">タブ②</label>
-    <div class="tab-content">
-      コンテンツ②をここに入れる
-    <!--/tab-content--></div>
+<details>
+<summary>これは中身が整形される</summary>
 
- <input id="TAB-03" type="radio" name="TAB" class="tab-switch" />
- <label class="tab-label" for="TAB-03">タブ③</label>
-    <div class="tab-content">
-      コンテンツ③をここに入れる
-    <!--/tab-content--></div>
-<!--/tab-wrap--></div>
+1. 野菜**A**の皮を剥く。
+2. 乱切りにする。
+3. 調味料**B**と合わせて炒める。
+    - `火傷`に注意。
+</details>
