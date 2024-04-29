@@ -2,9 +2,7 @@
 
 <!-- tab:English -->
 
-```
-Hello!
-```
+English
 
 <!-- tab:French -->
 
